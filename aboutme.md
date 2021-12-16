@@ -11,11 +11,6 @@ I'm a 4th-year undergraduate student at Georgia Institute of Technology. I study
 
 ![chess](/assets/img/chess.jpg) ![victini](/assets/img/victini.png)
 
-and again
-
-![chess](/assets/img/chess.jpg) | ![victini](/assets/img/victini.png)
-- | -
-
 I have a debilitating inclination for strategy games and puzzles, and can easily pour hours upon hours into them. I spent a large portion of my childhood playing chess, though I can't really claim I'm any good these days. I've currently been spending some time into poker, math brainteasers, and algorithm problems. I am also a lifelong Pokemon nerd. 
 
 ![piano](/assets/img/piano.jpg)
